@@ -1,0 +1,16 @@
+{
+  "random_state": 42,
+  "cv_splits": 3,
+  "models": [
+    "LogReg",
+    "DecisionTree",
+    "KNN",
+    "GBC",
+    "CatBoost",
+    "LGBM",
+    "XGB"
+  ],
+  "best_model": "LogReg",
+  "best_threshold": 0.770329232464147,
+  "features_count": 25
+}
